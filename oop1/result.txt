@@ -1,0 +1,1201 @@
+width = 6, height = 5
+Getting pixel at col = 0, row = 0
+Convert was called with n = -1, range = 6 ... returning 5
+Convert was called with n = -1, range = 5 ... returning 4
+	Getting kernel at col = 5, row = 4
+	Getting weights at row= 0, col = 0
+Convert was called with n = -1, range = 6 ... returning 5
+Convert was called with n = 0, range = 5 ... returning 0
+	Getting kernel at col = 5, row = 0
+	Getting weights at row= 0, col = 1
+Convert was called with n = -1, range = 6 ... returning 5
+Convert was called with n = 1, range = 5 ... returning 1
+	Getting kernel at col = 5, row = 1
+	Getting weights at row= 0, col = 2
+
+Convert was called with n = 0, range = 6 ... returning 0
+Convert was called with n = -1, range = 5 ... returning 4
+	Getting kernel at col = 0, row = 4
+	Getting weights at row= 1, col = 0
+Convert was called with n = 0, range = 6 ... returning 0
+Convert was called with n = 0, range = 5 ... returning 0
+	Getting kernel at col = 0, row = 0
+	Getting weights at row= 1, col = 1
+Convert was called with n = 0, range = 6 ... returning 0
+Convert was called with n = 1, range = 5 ... returning 1
+	Getting kernel at col = 0, row = 1
+	Getting weights at row= 1, col = 2
+
+Convert was called with n = 1, range = 6 ... returning 1
+Convert was called with n = -1, range = 5 ... returning 4
+	Getting kernel at col = 1, row = 4
+	Getting weights at row= 2, col = 0
+Convert was called with n = 1, range = 6 ... returning 1
+Convert was called with n = 0, range = 5 ... returning 0
+	Getting kernel at col = 1, row = 0
+	Getting weights at row= 2, col = 1
+Convert was called with n = 1, range = 6 ... returning 1
+Convert was called with n = 1, range = 5 ... returning 1
+	Getting kernel at col = 1, row = 1
+	Getting weights at row= 2, col = 2
+
+Getting pixel at col = 0, row = 1
+Convert was called with n = -1, range = 6 ... returning 5
+Convert was called with n = 0, range = 5 ... returning 0
+	Getting kernel at col = 5, row = 0
+	Getting weights at row= 0, col = 0
+Convert was called with n = -1, range = 6 ... returning 5
+Convert was called with n = 1, range = 5 ... returning 1
+	Getting kernel at col = 5, row = 1
+	Getting weights at row= 0, col = 1
+Convert was called with n = -1, range = 6 ... returning 5
+Convert was called with n = 2, range = 5 ... returning 2
+	Getting kernel at col = 5, row = 2
+	Getting weights at row= 0, col = 2
+
+Convert was called with n = 0, range = 6 ... returning 0
+Convert was called with n = 0, range = 5 ... returning 0
+	Getting kernel at col = 0, row = 0
+	Getting weights at row= 1, col = 0
+Convert was called with n = 0, range = 6 ... returning 0
+Convert was called with n = 1, range = 5 ... returning 1
+	Getting kernel at col = 0, row = 1
+	Getting weights at row= 1, col = 1
+Convert was called with n = 0, range = 6 ... returning 0
+Convert was called with n = 2, range = 5 ... returning 2
+	Getting kernel at col = 0, row = 2
+	Getting weights at row= 1, col = 2
+
+Convert was called with n = 1, range = 6 ... returning 1
+Convert was called with n = 0, range = 5 ... returning 0
+	Getting kernel at col = 1, row = 0
+	Getting weights at row= 2, col = 0
+Convert was called with n = 1, range = 6 ... returning 1
+Convert was called with n = 1, range = 5 ... returning 1
+	Getting kernel at col = 1, row = 1
+	Getting weights at row= 2, col = 1
+Convert was called with n = 1, range = 6 ... returning 1
+Convert was called with n = 2, range = 5 ... returning 2
+	Getting kernel at col = 1, row = 2
+	Getting weights at row= 2, col = 2
+
+Getting pixel at col = 0, row = 2
+Convert was called with n = -1, range = 6 ... returning 5
+Convert was called with n = 1, range = 5 ... returning 1
+	Getting kernel at col = 5, row = 1
+	Getting weights at row= 0, col = 0
+Convert was called with n = -1, range = 6 ... returning 5
+Convert was called with n = 2, range = 5 ... returning 2
+	Getting kernel at col = 5, row = 2
+	Getting weights at row= 0, col = 1
+Convert was called with n = -1, range = 6 ... returning 5
+Convert was called with n = 3, range = 5 ... returning 3
+	Getting kernel at col = 5, row = 3
+	Getting weights at row= 0, col = 2
+
+Convert was called with n = 0, range = 6 ... returning 0
+Convert was called with n = 1, range = 5 ... returning 1
+	Getting kernel at col = 0, row = 1
+	Getting weights at row= 1, col = 0
+Convert was called with n = 0, range = 6 ... returning 0
+Convert was called with n = 2, range = 5 ... returning 2
+	Getting kernel at col = 0, row = 2
+	Getting weights at row= 1, col = 1
+Convert was called with n = 0, range = 6 ... returning 0
+Convert was called with n = 3, range = 5 ... returning 3
+	Getting kernel at col = 0, row = 3
+	Getting weights at row= 1, col = 2
+
+Convert was called with n = 1, range = 6 ... returning 1
+Convert was called with n = 1, range = 5 ... returning 1
+	Getting kernel at col = 1, row = 1
+	Getting weights at row= 2, col = 0
+Convert was called with n = 1, range = 6 ... returning 1
+Convert was called with n = 2, range = 5 ... returning 2
+	Getting kernel at col = 1, row = 2
+	Getting weights at row= 2, col = 1
+Convert was called with n = 1, range = 6 ... returning 1
+Convert was called with n = 3, range = 5 ... returning 3
+	Getting kernel at col = 1, row = 3
+	Getting weights at row= 2, col = 2
+
+Getting pixel at col = 0, row = 3
+Convert was called with n = -1, range = 6 ... returning 5
+Convert was called with n = 2, range = 5 ... returning 2
+	Getting kernel at col = 5, row = 2
+	Getting weights at row= 0, col = 0
+Convert was called with n = -1, range = 6 ... returning 5
+Convert was called with n = 3, range = 5 ... returning 3
+	Getting kernel at col = 5, row = 3
+	Getting weights at row= 0, col = 1
+Convert was called with n = -1, range = 6 ... returning 5
+Convert was called with n = 4, range = 5 ... returning 4
+	Getting kernel at col = 5, row = 4
+	Getting weights at row= 0, col = 2
+
+Convert was called with n = 0, range = 6 ... returning 0
+Convert was called with n = 2, range = 5 ... returning 2
+	Getting kernel at col = 0, row = 2
+	Getting weights at row= 1, col = 0
+Convert was called with n = 0, range = 6 ... returning 0
+Convert was called with n = 3, range = 5 ... returning 3
+	Getting kernel at col = 0, row = 3
+	Getting weights at row= 1, col = 1
+Convert was called with n = 0, range = 6 ... returning 0
+Convert was called with n = 4, range = 5 ... returning 4
+	Getting kernel at col = 0, row = 4
+	Getting weights at row= 1, col = 2
+
+Convert was called with n = 1, range = 6 ... returning 1
+Convert was called with n = 2, range = 5 ... returning 2
+	Getting kernel at col = 1, row = 2
+	Getting weights at row= 2, col = 0
+Convert was called with n = 1, range = 6 ... returning 1
+Convert was called with n = 3, range = 5 ... returning 3
+	Getting kernel at col = 1, row = 3
+	Getting weights at row= 2, col = 1
+Convert was called with n = 1, range = 6 ... returning 1
+Convert was called with n = 4, range = 5 ... returning 4
+	Getting kernel at col = 1, row = 4
+	Getting weights at row= 2, col = 2
+
+Getting pixel at col = 0, row = 4
+Convert was called with n = -1, range = 6 ... returning 5
+Convert was called with n = 3, range = 5 ... returning 3
+	Getting kernel at col = 5, row = 3
+	Getting weights at row= 0, col = 0
+Convert was called with n = -1, range = 6 ... returning 5
+Convert was called with n = 4, range = 5 ... returning 4
+	Getting kernel at col = 5, row = 4
+	Getting weights at row= 0, col = 1
+Convert was called with n = -1, range = 6 ... returning 5
+Convert was called with n = 5, range = 5 ... returning 0
+	Getting kernel at col = 5, row = 0
+	Getting weights at row= 0, col = 2
+
+Convert was called with n = 0, range = 6 ... returning 0
+Convert was called with n = 3, range = 5 ... returning 3
+	Getting kernel at col = 0, row = 3
+	Getting weights at row= 1, col = 0
+Convert was called with n = 0, range = 6 ... returning 0
+Convert was called with n = 4, range = 5 ... returning 4
+	Getting kernel at col = 0, row = 4
+	Getting weights at row= 1, col = 1
+Convert was called with n = 0, range = 6 ... returning 0
+Convert was called with n = 5, range = 5 ... returning 0
+	Getting kernel at col = 0, row = 0
+	Getting weights at row= 1, col = 2
+
+Convert was called with n = 1, range = 6 ... returning 1
+Convert was called with n = 3, range = 5 ... returning 3
+	Getting kernel at col = 1, row = 3
+	Getting weights at row= 2, col = 0
+Convert was called with n = 1, range = 6 ... returning 1
+Convert was called with n = 4, range = 5 ... returning 4
+	Getting kernel at col = 1, row = 4
+	Getting weights at row= 2, col = 1
+Convert was called with n = 1, range = 6 ... returning 1
+Convert was called with n = 5, range = 5 ... returning 0
+	Getting kernel at col = 1, row = 0
+	Getting weights at row= 2, col = 2
+
+Getting pixel at col = 1, row = 0
+Convert was called with n = 0, range = 6 ... returning 0
+Convert was called with n = -1, range = 5 ... returning 4
+	Getting kernel at col = 0, row = 4
+	Getting weights at row= 0, col = 0
+Convert was called with n = 0, range = 6 ... returning 0
+Convert was called with n = 0, range = 5 ... returning 0
+	Getting kernel at col = 0, row = 0
+	Getting weights at row= 0, col = 1
+Convert was called with n = 0, range = 6 ... returning 0
+Convert was called with n = 1, range = 5 ... returning 1
+	Getting kernel at col = 0, row = 1
+	Getting weights at row= 0, col = 2
+
+Convert was called with n = 1, range = 6 ... returning 1
+Convert was called with n = -1, range = 5 ... returning 4
+	Getting kernel at col = 1, row = 4
+	Getting weights at row= 1, col = 0
+Convert was called with n = 1, range = 6 ... returning 1
+Convert was called with n = 0, range = 5 ... returning 0
+	Getting kernel at col = 1, row = 0
+	Getting weights at row= 1, col = 1
+Convert was called with n = 1, range = 6 ... returning 1
+Convert was called with n = 1, range = 5 ... returning 1
+	Getting kernel at col = 1, row = 1
+	Getting weights at row= 1, col = 2
+
+Convert was called with n = 2, range = 6 ... returning 2
+Convert was called with n = -1, range = 5 ... returning 4
+	Getting kernel at col = 2, row = 4
+	Getting weights at row= 2, col = 0
+Convert was called with n = 2, range = 6 ... returning 2
+Convert was called with n = 0, range = 5 ... returning 0
+	Getting kernel at col = 2, row = 0
+	Getting weights at row= 2, col = 1
+Convert was called with n = 2, range = 6 ... returning 2
+Convert was called with n = 1, range = 5 ... returning 1
+	Getting kernel at col = 2, row = 1
+	Getting weights at row= 2, col = 2
+
+Getting pixel at col = 1, row = 1
+Convert was called with n = 0, range = 6 ... returning 0
+Convert was called with n = 0, range = 5 ... returning 0
+	Getting kernel at col = 0, row = 0
+	Getting weights at row= 0, col = 0
+Convert was called with n = 0, range = 6 ... returning 0
+Convert was called with n = 1, range = 5 ... returning 1
+	Getting kernel at col = 0, row = 1
+	Getting weights at row= 0, col = 1
+Convert was called with n = 0, range = 6 ... returning 0
+Convert was called with n = 2, range = 5 ... returning 2
+	Getting kernel at col = 0, row = 2
+	Getting weights at row= 0, col = 2
+
+Convert was called with n = 1, range = 6 ... returning 1
+Convert was called with n = 0, range = 5 ... returning 0
+	Getting kernel at col = 1, row = 0
+	Getting weights at row= 1, col = 0
+Convert was called with n = 1, range = 6 ... returning 1
+Convert was called with n = 1, range = 5 ... returning 1
+	Getting kernel at col = 1, row = 1
+	Getting weights at row= 1, col = 1
+Convert was called with n = 1, range = 6 ... returning 1
+Convert was called with n = 2, range = 5 ... returning 2
+	Getting kernel at col = 1, row = 2
+	Getting weights at row= 1, col = 2
+
+Convert was called with n = 2, range = 6 ... returning 2
+Convert was called with n = 0, range = 5 ... returning 0
+	Getting kernel at col = 2, row = 0
+	Getting weights at row= 2, col = 0
+Convert was called with n = 2, range = 6 ... returning 2
+Convert was called with n = 1, range = 5 ... returning 1
+	Getting kernel at col = 2, row = 1
+	Getting weights at row= 2, col = 1
+Convert was called with n = 2, range = 6 ... returning 2
+Convert was called with n = 2, range = 5 ... returning 2
+	Getting kernel at col = 2, row = 2
+	Getting weights at row= 2, col = 2
+
+Getting pixel at col = 1, row = 2
+Convert was called with n = 0, range = 6 ... returning 0
+Convert was called with n = 1, range = 5 ... returning 1
+	Getting kernel at col = 0, row = 1
+	Getting weights at row= 0, col = 0
+Convert was called with n = 0, range = 6 ... returning 0
+Convert was called with n = 2, range = 5 ... returning 2
+	Getting kernel at col = 0, row = 2
+	Getting weights at row= 0, col = 1
+Convert was called with n = 0, range = 6 ... returning 0
+Convert was called with n = 3, range = 5 ... returning 3
+	Getting kernel at col = 0, row = 3
+	Getting weights at row= 0, col = 2
+
+Convert was called with n = 1, range = 6 ... returning 1
+Convert was called with n = 1, range = 5 ... returning 1
+	Getting kernel at col = 1, row = 1
+	Getting weights at row= 1, col = 0
+Convert was called with n = 1, range = 6 ... returning 1
+Convert was called with n = 2, range = 5 ... returning 2
+	Getting kernel at col = 1, row = 2
+	Getting weights at row= 1, col = 1
+Convert was called with n = 1, range = 6 ... returning 1
+Convert was called with n = 3, range = 5 ... returning 3
+	Getting kernel at col = 1, row = 3
+	Getting weights at row= 1, col = 2
+
+Convert was called with n = 2, range = 6 ... returning 2
+Convert was called with n = 1, range = 5 ... returning 1
+	Getting kernel at col = 2, row = 1
+	Getting weights at row= 2, col = 0
+Convert was called with n = 2, range = 6 ... returning 2
+Convert was called with n = 2, range = 5 ... returning 2
+	Getting kernel at col = 2, row = 2
+	Getting weights at row= 2, col = 1
+Convert was called with n = 2, range = 6 ... returning 2
+Convert was called with n = 3, range = 5 ... returning 3
+	Getting kernel at col = 2, row = 3
+	Getting weights at row= 2, col = 2
+
+Getting pixel at col = 1, row = 3
+Convert was called with n = 0, range = 6 ... returning 0
+Convert was called with n = 2, range = 5 ... returning 2
+	Getting kernel at col = 0, row = 2
+	Getting weights at row= 0, col = 0
+Convert was called with n = 0, range = 6 ... returning 0
+Convert was called with n = 3, range = 5 ... returning 3
+	Getting kernel at col = 0, row = 3
+	Getting weights at row= 0, col = 1
+Convert was called with n = 0, range = 6 ... returning 0
+Convert was called with n = 4, range = 5 ... returning 4
+	Getting kernel at col = 0, row = 4
+	Getting weights at row= 0, col = 2
+
+Convert was called with n = 1, range = 6 ... returning 1
+Convert was called with n = 2, range = 5 ... returning 2
+	Getting kernel at col = 1, row = 2
+	Getting weights at row= 1, col = 0
+Convert was called with n = 1, range = 6 ... returning 1
+Convert was called with n = 3, range = 5 ... returning 3
+	Getting kernel at col = 1, row = 3
+	Getting weights at row= 1, col = 1
+Convert was called with n = 1, range = 6 ... returning 1
+Convert was called with n = 4, range = 5 ... returning 4
+	Getting kernel at col = 1, row = 4
+	Getting weights at row= 1, col = 2
+
+Convert was called with n = 2, range = 6 ... returning 2
+Convert was called with n = 2, range = 5 ... returning 2
+	Getting kernel at col = 2, row = 2
+	Getting weights at row= 2, col = 0
+Convert was called with n = 2, range = 6 ... returning 2
+Convert was called with n = 3, range = 5 ... returning 3
+	Getting kernel at col = 2, row = 3
+	Getting weights at row= 2, col = 1
+Convert was called with n = 2, range = 6 ... returning 2
+Convert was called with n = 4, range = 5 ... returning 4
+	Getting kernel at col = 2, row = 4
+	Getting weights at row= 2, col = 2
+
+Getting pixel at col = 1, row = 4
+Convert was called with n = 0, range = 6 ... returning 0
+Convert was called with n = 3, range = 5 ... returning 3
+	Getting kernel at col = 0, row = 3
+	Getting weights at row= 0, col = 0
+Convert was called with n = 0, range = 6 ... returning 0
+Convert was called with n = 4, range = 5 ... returning 4
+	Getting kernel at col = 0, row = 4
+	Getting weights at row= 0, col = 1
+Convert was called with n = 0, range = 6 ... returning 0
+Convert was called with n = 5, range = 5 ... returning 0
+	Getting kernel at col = 0, row = 0
+	Getting weights at row= 0, col = 2
+
+Convert was called with n = 1, range = 6 ... returning 1
+Convert was called with n = 3, range = 5 ... returning 3
+	Getting kernel at col = 1, row = 3
+	Getting weights at row= 1, col = 0
+Convert was called with n = 1, range = 6 ... returning 1
+Convert was called with n = 4, range = 5 ... returning 4
+	Getting kernel at col = 1, row = 4
+	Getting weights at row= 1, col = 1
+Convert was called with n = 1, range = 6 ... returning 1
+Convert was called with n = 5, range = 5 ... returning 0
+	Getting kernel at col = 1, row = 0
+	Getting weights at row= 1, col = 2
+
+Convert was called with n = 2, range = 6 ... returning 2
+Convert was called with n = 3, range = 5 ... returning 3
+	Getting kernel at col = 2, row = 3
+	Getting weights at row= 2, col = 0
+Convert was called with n = 2, range = 6 ... returning 2
+Convert was called with n = 4, range = 5 ... returning 4
+	Getting kernel at col = 2, row = 4
+	Getting weights at row= 2, col = 1
+Convert was called with n = 2, range = 6 ... returning 2
+Convert was called with n = 5, range = 5 ... returning 0
+	Getting kernel at col = 2, row = 0
+	Getting weights at row= 2, col = 2
+
+Getting pixel at col = 2, row = 0
+Convert was called with n = 1, range = 6 ... returning 1
+Convert was called with n = -1, range = 5 ... returning 4
+	Getting kernel at col = 1, row = 4
+	Getting weights at row= 0, col = 0
+Convert was called with n = 1, range = 6 ... returning 1
+Convert was called with n = 0, range = 5 ... returning 0
+	Getting kernel at col = 1, row = 0
+	Getting weights at row= 0, col = 1
+Convert was called with n = 1, range = 6 ... returning 1
+Convert was called with n = 1, range = 5 ... returning 1
+	Getting kernel at col = 1, row = 1
+	Getting weights at row= 0, col = 2
+
+Convert was called with n = 2, range = 6 ... returning 2
+Convert was called with n = -1, range = 5 ... returning 4
+	Getting kernel at col = 2, row = 4
+	Getting weights at row= 1, col = 0
+Convert was called with n = 2, range = 6 ... returning 2
+Convert was called with n = 0, range = 5 ... returning 0
+	Getting kernel at col = 2, row = 0
+	Getting weights at row= 1, col = 1
+Convert was called with n = 2, range = 6 ... returning 2
+Convert was called with n = 1, range = 5 ... returning 1
+	Getting kernel at col = 2, row = 1
+	Getting weights at row= 1, col = 2
+
+Convert was called with n = 3, range = 6 ... returning 3
+Convert was called with n = -1, range = 5 ... returning 4
+	Getting kernel at col = 3, row = 4
+	Getting weights at row= 2, col = 0
+Convert was called with n = 3, range = 6 ... returning 3
+Convert was called with n = 0, range = 5 ... returning 0
+	Getting kernel at col = 3, row = 0
+	Getting weights at row= 2, col = 1
+Convert was called with n = 3, range = 6 ... returning 3
+Convert was called with n = 1, range = 5 ... returning 1
+	Getting kernel at col = 3, row = 1
+	Getting weights at row= 2, col = 2
+
+Getting pixel at col = 2, row = 1
+Convert was called with n = 1, range = 6 ... returning 1
+Convert was called with n = 0, range = 5 ... returning 0
+	Getting kernel at col = 1, row = 0
+	Getting weights at row= 0, col = 0
+Convert was called with n = 1, range = 6 ... returning 1
+Convert was called with n = 1, range = 5 ... returning 1
+	Getting kernel at col = 1, row = 1
+	Getting weights at row= 0, col = 1
+Convert was called with n = 1, range = 6 ... returning 1
+Convert was called with n = 2, range = 5 ... returning 2
+	Getting kernel at col = 1, row = 2
+	Getting weights at row= 0, col = 2
+
+Convert was called with n = 2, range = 6 ... returning 2
+Convert was called with n = 0, range = 5 ... returning 0
+	Getting kernel at col = 2, row = 0
+	Getting weights at row= 1, col = 0
+Convert was called with n = 2, range = 6 ... returning 2
+Convert was called with n = 1, range = 5 ... returning 1
+	Getting kernel at col = 2, row = 1
+	Getting weights at row= 1, col = 1
+Convert was called with n = 2, range = 6 ... returning 2
+Convert was called with n = 2, range = 5 ... returning 2
+	Getting kernel at col = 2, row = 2
+	Getting weights at row= 1, col = 2
+
+Convert was called with n = 3, range = 6 ... returning 3
+Convert was called with n = 0, range = 5 ... returning 0
+	Getting kernel at col = 3, row = 0
+	Getting weights at row= 2, col = 0
+Convert was called with n = 3, range = 6 ... returning 3
+Convert was called with n = 1, range = 5 ... returning 1
+	Getting kernel at col = 3, row = 1
+	Getting weights at row= 2, col = 1
+Convert was called with n = 3, range = 6 ... returning 3
+Convert was called with n = 2, range = 5 ... returning 2
+	Getting kernel at col = 3, row = 2
+	Getting weights at row= 2, col = 2
+
+Getting pixel at col = 2, row = 2
+Convert was called with n = 1, range = 6 ... returning 1
+Convert was called with n = 1, range = 5 ... returning 1
+	Getting kernel at col = 1, row = 1
+	Getting weights at row= 0, col = 0
+Convert was called with n = 1, range = 6 ... returning 1
+Convert was called with n = 2, range = 5 ... returning 2
+	Getting kernel at col = 1, row = 2
+	Getting weights at row= 0, col = 1
+Convert was called with n = 1, range = 6 ... returning 1
+Convert was called with n = 3, range = 5 ... returning 3
+	Getting kernel at col = 1, row = 3
+	Getting weights at row= 0, col = 2
+
+Convert was called with n = 2, range = 6 ... returning 2
+Convert was called with n = 1, range = 5 ... returning 1
+	Getting kernel at col = 2, row = 1
+	Getting weights at row= 1, col = 0
+Convert was called with n = 2, range = 6 ... returning 2
+Convert was called with n = 2, range = 5 ... returning 2
+	Getting kernel at col = 2, row = 2
+	Getting weights at row= 1, col = 1
+Convert was called with n = 2, range = 6 ... returning 2
+Convert was called with n = 3, range = 5 ... returning 3
+	Getting kernel at col = 2, row = 3
+	Getting weights at row= 1, col = 2
+
+Convert was called with n = 3, range = 6 ... returning 3
+Convert was called with n = 1, range = 5 ... returning 1
+	Getting kernel at col = 3, row = 1
+	Getting weights at row= 2, col = 0
+Convert was called with n = 3, range = 6 ... returning 3
+Convert was called with n = 2, range = 5 ... returning 2
+	Getting kernel at col = 3, row = 2
+	Getting weights at row= 2, col = 1
+Convert was called with n = 3, range = 6 ... returning 3
+Convert was called with n = 3, range = 5 ... returning 3
+	Getting kernel at col = 3, row = 3
+	Getting weights at row= 2, col = 2
+
+Getting pixel at col = 2, row = 3
+Convert was called with n = 1, range = 6 ... returning 1
+Convert was called with n = 2, range = 5 ... returning 2
+	Getting kernel at col = 1, row = 2
+	Getting weights at row= 0, col = 0
+Convert was called with n = 1, range = 6 ... returning 1
+Convert was called with n = 3, range = 5 ... returning 3
+	Getting kernel at col = 1, row = 3
+	Getting weights at row= 0, col = 1
+Convert was called with n = 1, range = 6 ... returning 1
+Convert was called with n = 4, range = 5 ... returning 4
+	Getting kernel at col = 1, row = 4
+	Getting weights at row= 0, col = 2
+
+Convert was called with n = 2, range = 6 ... returning 2
+Convert was called with n = 2, range = 5 ... returning 2
+	Getting kernel at col = 2, row = 2
+	Getting weights at row= 1, col = 0
+Convert was called with n = 2, range = 6 ... returning 2
+Convert was called with n = 3, range = 5 ... returning 3
+	Getting kernel at col = 2, row = 3
+	Getting weights at row= 1, col = 1
+Convert was called with n = 2, range = 6 ... returning 2
+Convert was called with n = 4, range = 5 ... returning 4
+	Getting kernel at col = 2, row = 4
+	Getting weights at row= 1, col = 2
+
+Convert was called with n = 3, range = 6 ... returning 3
+Convert was called with n = 2, range = 5 ... returning 2
+	Getting kernel at col = 3, row = 2
+	Getting weights at row= 2, col = 0
+Convert was called with n = 3, range = 6 ... returning 3
+Convert was called with n = 3, range = 5 ... returning 3
+	Getting kernel at col = 3, row = 3
+	Getting weights at row= 2, col = 1
+Convert was called with n = 3, range = 6 ... returning 3
+Convert was called with n = 4, range = 5 ... returning 4
+	Getting kernel at col = 3, row = 4
+	Getting weights at row= 2, col = 2
+
+Getting pixel at col = 2, row = 4
+Convert was called with n = 1, range = 6 ... returning 1
+Convert was called with n = 3, range = 5 ... returning 3
+	Getting kernel at col = 1, row = 3
+	Getting weights at row= 0, col = 0
+Convert was called with n = 1, range = 6 ... returning 1
+Convert was called with n = 4, range = 5 ... returning 4
+	Getting kernel at col = 1, row = 4
+	Getting weights at row= 0, col = 1
+Convert was called with n = 1, range = 6 ... returning 1
+Convert was called with n = 5, range = 5 ... returning 0
+	Getting kernel at col = 1, row = 0
+	Getting weights at row= 0, col = 2
+
+Convert was called with n = 2, range = 6 ... returning 2
+Convert was called with n = 3, range = 5 ... returning 3
+	Getting kernel at col = 2, row = 3
+	Getting weights at row= 1, col = 0
+Convert was called with n = 2, range = 6 ... returning 2
+Convert was called with n = 4, range = 5 ... returning 4
+	Getting kernel at col = 2, row = 4
+	Getting weights at row= 1, col = 1
+Convert was called with n = 2, range = 6 ... returning 2
+Convert was called with n = 5, range = 5 ... returning 0
+	Getting kernel at col = 2, row = 0
+	Getting weights at row= 1, col = 2
+
+Convert was called with n = 3, range = 6 ... returning 3
+Convert was called with n = 3, range = 5 ... returning 3
+	Getting kernel at col = 3, row = 3
+	Getting weights at row= 2, col = 0
+Convert was called with n = 3, range = 6 ... returning 3
+Convert was called with n = 4, range = 5 ... returning 4
+	Getting kernel at col = 3, row = 4
+	Getting weights at row= 2, col = 1
+Convert was called with n = 3, range = 6 ... returning 3
+Convert was called with n = 5, range = 5 ... returning 0
+	Getting kernel at col = 3, row = 0
+	Getting weights at row= 2, col = 2
+
+Getting pixel at col = 3, row = 0
+Convert was called with n = 2, range = 6 ... returning 2
+Convert was called with n = -1, range = 5 ... returning 4
+	Getting kernel at col = 2, row = 4
+	Getting weights at row= 0, col = 0
+Convert was called with n = 2, range = 6 ... returning 2
+Convert was called with n = 0, range = 5 ... returning 0
+	Getting kernel at col = 2, row = 0
+	Getting weights at row= 0, col = 1
+Convert was called with n = 2, range = 6 ... returning 2
+Convert was called with n = 1, range = 5 ... returning 1
+	Getting kernel at col = 2, row = 1
+	Getting weights at row= 0, col = 2
+
+Convert was called with n = 3, range = 6 ... returning 3
+Convert was called with n = -1, range = 5 ... returning 4
+	Getting kernel at col = 3, row = 4
+	Getting weights at row= 1, col = 0
+Convert was called with n = 3, range = 6 ... returning 3
+Convert was called with n = 0, range = 5 ... returning 0
+	Getting kernel at col = 3, row = 0
+	Getting weights at row= 1, col = 1
+Convert was called with n = 3, range = 6 ... returning 3
+Convert was called with n = 1, range = 5 ... returning 1
+	Getting kernel at col = 3, row = 1
+	Getting weights at row= 1, col = 2
+
+Convert was called with n = 4, range = 6 ... returning 4
+Convert was called with n = -1, range = 5 ... returning 4
+	Getting kernel at col = 4, row = 4
+	Getting weights at row= 2, col = 0
+Convert was called with n = 4, range = 6 ... returning 4
+Convert was called with n = 0, range = 5 ... returning 0
+	Getting kernel at col = 4, row = 0
+	Getting weights at row= 2, col = 1
+Convert was called with n = 4, range = 6 ... returning 4
+Convert was called with n = 1, range = 5 ... returning 1
+	Getting kernel at col = 4, row = 1
+	Getting weights at row= 2, col = 2
+
+Getting pixel at col = 3, row = 1
+Convert was called with n = 2, range = 6 ... returning 2
+Convert was called with n = 0, range = 5 ... returning 0
+	Getting kernel at col = 2, row = 0
+	Getting weights at row= 0, col = 0
+Convert was called with n = 2, range = 6 ... returning 2
+Convert was called with n = 1, range = 5 ... returning 1
+	Getting kernel at col = 2, row = 1
+	Getting weights at row= 0, col = 1
+Convert was called with n = 2, range = 6 ... returning 2
+Convert was called with n = 2, range = 5 ... returning 2
+	Getting kernel at col = 2, row = 2
+	Getting weights at row= 0, col = 2
+
+Convert was called with n = 3, range = 6 ... returning 3
+Convert was called with n = 0, range = 5 ... returning 0
+	Getting kernel at col = 3, row = 0
+	Getting weights at row= 1, col = 0
+Convert was called with n = 3, range = 6 ... returning 3
+Convert was called with n = 1, range = 5 ... returning 1
+	Getting kernel at col = 3, row = 1
+	Getting weights at row= 1, col = 1
+Convert was called with n = 3, range = 6 ... returning 3
+Convert was called with n = 2, range = 5 ... returning 2
+	Getting kernel at col = 3, row = 2
+	Getting weights at row= 1, col = 2
+
+Convert was called with n = 4, range = 6 ... returning 4
+Convert was called with n = 0, range = 5 ... returning 0
+	Getting kernel at col = 4, row = 0
+	Getting weights at row= 2, col = 0
+Convert was called with n = 4, range = 6 ... returning 4
+Convert was called with n = 1, range = 5 ... returning 1
+	Getting kernel at col = 4, row = 1
+	Getting weights at row= 2, col = 1
+Convert was called with n = 4, range = 6 ... returning 4
+Convert was called with n = 2, range = 5 ... returning 2
+	Getting kernel at col = 4, row = 2
+	Getting weights at row= 2, col = 2
+
+Getting pixel at col = 3, row = 2
+Convert was called with n = 2, range = 6 ... returning 2
+Convert was called with n = 1, range = 5 ... returning 1
+	Getting kernel at col = 2, row = 1
+	Getting weights at row= 0, col = 0
+Convert was called with n = 2, range = 6 ... returning 2
+Convert was called with n = 2, range = 5 ... returning 2
+	Getting kernel at col = 2, row = 2
+	Getting weights at row= 0, col = 1
+Convert was called with n = 2, range = 6 ... returning 2
+Convert was called with n = 3, range = 5 ... returning 3
+	Getting kernel at col = 2, row = 3
+	Getting weights at row= 0, col = 2
+
+Convert was called with n = 3, range = 6 ... returning 3
+Convert was called with n = 1, range = 5 ... returning 1
+	Getting kernel at col = 3, row = 1
+	Getting weights at row= 1, col = 0
+Convert was called with n = 3, range = 6 ... returning 3
+Convert was called with n = 2, range = 5 ... returning 2
+	Getting kernel at col = 3, row = 2
+	Getting weights at row= 1, col = 1
+Convert was called with n = 3, range = 6 ... returning 3
+Convert was called with n = 3, range = 5 ... returning 3
+	Getting kernel at col = 3, row = 3
+	Getting weights at row= 1, col = 2
+
+Convert was called with n = 4, range = 6 ... returning 4
+Convert was called with n = 1, range = 5 ... returning 1
+	Getting kernel at col = 4, row = 1
+	Getting weights at row= 2, col = 0
+Convert was called with n = 4, range = 6 ... returning 4
+Convert was called with n = 2, range = 5 ... returning 2
+	Getting kernel at col = 4, row = 2
+	Getting weights at row= 2, col = 1
+Convert was called with n = 4, range = 6 ... returning 4
+Convert was called with n = 3, range = 5 ... returning 3
+	Getting kernel at col = 4, row = 3
+	Getting weights at row= 2, col = 2
+
+Getting pixel at col = 3, row = 3
+Convert was called with n = 2, range = 6 ... returning 2
+Convert was called with n = 2, range = 5 ... returning 2
+	Getting kernel at col = 2, row = 2
+	Getting weights at row= 0, col = 0
+Convert was called with n = 2, range = 6 ... returning 2
+Convert was called with n = 3, range = 5 ... returning 3
+	Getting kernel at col = 2, row = 3
+	Getting weights at row= 0, col = 1
+Convert was called with n = 2, range = 6 ... returning 2
+Convert was called with n = 4, range = 5 ... returning 4
+	Getting kernel at col = 2, row = 4
+	Getting weights at row= 0, col = 2
+
+Convert was called with n = 3, range = 6 ... returning 3
+Convert was called with n = 2, range = 5 ... returning 2
+	Getting kernel at col = 3, row = 2
+	Getting weights at row= 1, col = 0
+Convert was called with n = 3, range = 6 ... returning 3
+Convert was called with n = 3, range = 5 ... returning 3
+	Getting kernel at col = 3, row = 3
+	Getting weights at row= 1, col = 1
+Convert was called with n = 3, range = 6 ... returning 3
+Convert was called with n = 4, range = 5 ... returning 4
+	Getting kernel at col = 3, row = 4
+	Getting weights at row= 1, col = 2
+
+Convert was called with n = 4, range = 6 ... returning 4
+Convert was called with n = 2, range = 5 ... returning 2
+	Getting kernel at col = 4, row = 2
+	Getting weights at row= 2, col = 0
+Convert was called with n = 4, range = 6 ... returning 4
+Convert was called with n = 3, range = 5 ... returning 3
+	Getting kernel at col = 4, row = 3
+	Getting weights at row= 2, col = 1
+Convert was called with n = 4, range = 6 ... returning 4
+Convert was called with n = 4, range = 5 ... returning 4
+	Getting kernel at col = 4, row = 4
+	Getting weights at row= 2, col = 2
+
+Getting pixel at col = 3, row = 4
+Convert was called with n = 2, range = 6 ... returning 2
+Convert was called with n = 3, range = 5 ... returning 3
+	Getting kernel at col = 2, row = 3
+	Getting weights at row= 0, col = 0
+Convert was called with n = 2, range = 6 ... returning 2
+Convert was called with n = 4, range = 5 ... returning 4
+	Getting kernel at col = 2, row = 4
+	Getting weights at row= 0, col = 1
+Convert was called with n = 2, range = 6 ... returning 2
+Convert was called with n = 5, range = 5 ... returning 0
+	Getting kernel at col = 2, row = 0
+	Getting weights at row= 0, col = 2
+
+Convert was called with n = 3, range = 6 ... returning 3
+Convert was called with n = 3, range = 5 ... returning 3
+	Getting kernel at col = 3, row = 3
+	Getting weights at row= 1, col = 0
+Convert was called with n = 3, range = 6 ... returning 3
+Convert was called with n = 4, range = 5 ... returning 4
+	Getting kernel at col = 3, row = 4
+	Getting weights at row= 1, col = 1
+Convert was called with n = 3, range = 6 ... returning 3
+Convert was called with n = 5, range = 5 ... returning 0
+	Getting kernel at col = 3, row = 0
+	Getting weights at row= 1, col = 2
+
+Convert was called with n = 4, range = 6 ... returning 4
+Convert was called with n = 3, range = 5 ... returning 3
+	Getting kernel at col = 4, row = 3
+	Getting weights at row= 2, col = 0
+Convert was called with n = 4, range = 6 ... returning 4
+Convert was called with n = 4, range = 5 ... returning 4
+	Getting kernel at col = 4, row = 4
+	Getting weights at row= 2, col = 1
+Convert was called with n = 4, range = 6 ... returning 4
+Convert was called with n = 5, range = 5 ... returning 0
+	Getting kernel at col = 4, row = 0
+	Getting weights at row= 2, col = 2
+
+Getting pixel at col = 4, row = 0
+Convert was called with n = 3, range = 6 ... returning 3
+Convert was called with n = -1, range = 5 ... returning 4
+	Getting kernel at col = 3, row = 4
+	Getting weights at row= 0, col = 0
+Convert was called with n = 3, range = 6 ... returning 3
+Convert was called with n = 0, range = 5 ... returning 0
+	Getting kernel at col = 3, row = 0
+	Getting weights at row= 0, col = 1
+Convert was called with n = 3, range = 6 ... returning 3
+Convert was called with n = 1, range = 5 ... returning 1
+	Getting kernel at col = 3, row = 1
+	Getting weights at row= 0, col = 2
+
+Convert was called with n = 4, range = 6 ... returning 4
+Convert was called with n = -1, range = 5 ... returning 4
+	Getting kernel at col = 4, row = 4
+	Getting weights at row= 1, col = 0
+Convert was called with n = 4, range = 6 ... returning 4
+Convert was called with n = 0, range = 5 ... returning 0
+	Getting kernel at col = 4, row = 0
+	Getting weights at row= 1, col = 1
+Convert was called with n = 4, range = 6 ... returning 4
+Convert was called with n = 1, range = 5 ... returning 1
+	Getting kernel at col = 4, row = 1
+	Getting weights at row= 1, col = 2
+
+Convert was called with n = 5, range = 6 ... returning 5
+Convert was called with n = -1, range = 5 ... returning 4
+	Getting kernel at col = 5, row = 4
+	Getting weights at row= 2, col = 0
+Convert was called with n = 5, range = 6 ... returning 5
+Convert was called with n = 0, range = 5 ... returning 0
+	Getting kernel at col = 5, row = 0
+	Getting weights at row= 2, col = 1
+Convert was called with n = 5, range = 6 ... returning 5
+Convert was called with n = 1, range = 5 ... returning 1
+	Getting kernel at col = 5, row = 1
+	Getting weights at row= 2, col = 2
+
+Getting pixel at col = 4, row = 1
+Convert was called with n = 3, range = 6 ... returning 3
+Convert was called with n = 0, range = 5 ... returning 0
+	Getting kernel at col = 3, row = 0
+	Getting weights at row= 0, col = 0
+Convert was called with n = 3, range = 6 ... returning 3
+Convert was called with n = 1, range = 5 ... returning 1
+	Getting kernel at col = 3, row = 1
+	Getting weights at row= 0, col = 1
+Convert was called with n = 3, range = 6 ... returning 3
+Convert was called with n = 2, range = 5 ... returning 2
+	Getting kernel at col = 3, row = 2
+	Getting weights at row= 0, col = 2
+
+Convert was called with n = 4, range = 6 ... returning 4
+Convert was called with n = 0, range = 5 ... returning 0
+	Getting kernel at col = 4, row = 0
+	Getting weights at row= 1, col = 0
+Convert was called with n = 4, range = 6 ... returning 4
+Convert was called with n = 1, range = 5 ... returning 1
+	Getting kernel at col = 4, row = 1
+	Getting weights at row= 1, col = 1
+Convert was called with n = 4, range = 6 ... returning 4
+Convert was called with n = 2, range = 5 ... returning 2
+	Getting kernel at col = 4, row = 2
+	Getting weights at row= 1, col = 2
+
+Convert was called with n = 5, range = 6 ... returning 5
+Convert was called with n = 0, range = 5 ... returning 0
+	Getting kernel at col = 5, row = 0
+	Getting weights at row= 2, col = 0
+Convert was called with n = 5, range = 6 ... returning 5
+Convert was called with n = 1, range = 5 ... returning 1
+	Getting kernel at col = 5, row = 1
+	Getting weights at row= 2, col = 1
+Convert was called with n = 5, range = 6 ... returning 5
+Convert was called with n = 2, range = 5 ... returning 2
+	Getting kernel at col = 5, row = 2
+	Getting weights at row= 2, col = 2
+
+Getting pixel at col = 4, row = 2
+Convert was called with n = 3, range = 6 ... returning 3
+Convert was called with n = 1, range = 5 ... returning 1
+	Getting kernel at col = 3, row = 1
+	Getting weights at row= 0, col = 0
+Convert was called with n = 3, range = 6 ... returning 3
+Convert was called with n = 2, range = 5 ... returning 2
+	Getting kernel at col = 3, row = 2
+	Getting weights at row= 0, col = 1
+Convert was called with n = 3, range = 6 ... returning 3
+Convert was called with n = 3, range = 5 ... returning 3
+	Getting kernel at col = 3, row = 3
+	Getting weights at row= 0, col = 2
+
+Convert was called with n = 4, range = 6 ... returning 4
+Convert was called with n = 1, range = 5 ... returning 1
+	Getting kernel at col = 4, row = 1
+	Getting weights at row= 1, col = 0
+Convert was called with n = 4, range = 6 ... returning 4
+Convert was called with n = 2, range = 5 ... returning 2
+	Getting kernel at col = 4, row = 2
+	Getting weights at row= 1, col = 1
+Convert was called with n = 4, range = 6 ... returning 4
+Convert was called with n = 3, range = 5 ... returning 3
+	Getting kernel at col = 4, row = 3
+	Getting weights at row= 1, col = 2
+
+Convert was called with n = 5, range = 6 ... returning 5
+Convert was called with n = 1, range = 5 ... returning 1
+	Getting kernel at col = 5, row = 1
+	Getting weights at row= 2, col = 0
+Convert was called with n = 5, range = 6 ... returning 5
+Convert was called with n = 2, range = 5 ... returning 2
+	Getting kernel at col = 5, row = 2
+	Getting weights at row= 2, col = 1
+Convert was called with n = 5, range = 6 ... returning 5
+Convert was called with n = 3, range = 5 ... returning 3
+	Getting kernel at col = 5, row = 3
+	Getting weights at row= 2, col = 2
+
+Getting pixel at col = 4, row = 3
+Convert was called with n = 3, range = 6 ... returning 3
+Convert was called with n = 2, range = 5 ... returning 2
+	Getting kernel at col = 3, row = 2
+	Getting weights at row= 0, col = 0
+Convert was called with n = 3, range = 6 ... returning 3
+Convert was called with n = 3, range = 5 ... returning 3
+	Getting kernel at col = 3, row = 3
+	Getting weights at row= 0, col = 1
+Convert was called with n = 3, range = 6 ... returning 3
+Convert was called with n = 4, range = 5 ... returning 4
+	Getting kernel at col = 3, row = 4
+	Getting weights at row= 0, col = 2
+
+Convert was called with n = 4, range = 6 ... returning 4
+Convert was called with n = 2, range = 5 ... returning 2
+	Getting kernel at col = 4, row = 2
+	Getting weights at row= 1, col = 0
+Convert was called with n = 4, range = 6 ... returning 4
+Convert was called with n = 3, range = 5 ... returning 3
+	Getting kernel at col = 4, row = 3
+	Getting weights at row= 1, col = 1
+Convert was called with n = 4, range = 6 ... returning 4
+Convert was called with n = 4, range = 5 ... returning 4
+	Getting kernel at col = 4, row = 4
+	Getting weights at row= 1, col = 2
+
+Convert was called with n = 5, range = 6 ... returning 5
+Convert was called with n = 2, range = 5 ... returning 2
+	Getting kernel at col = 5, row = 2
+	Getting weights at row= 2, col = 0
+Convert was called with n = 5, range = 6 ... returning 5
+Convert was called with n = 3, range = 5 ... returning 3
+	Getting kernel at col = 5, row = 3
+	Getting weights at row= 2, col = 1
+Convert was called with n = 5, range = 6 ... returning 5
+Convert was called with n = 4, range = 5 ... returning 4
+	Getting kernel at col = 5, row = 4
+	Getting weights at row= 2, col = 2
+
+Getting pixel at col = 4, row = 4
+Convert was called with n = 3, range = 6 ... returning 3
+Convert was called with n = 3, range = 5 ... returning 3
+	Getting kernel at col = 3, row = 3
+	Getting weights at row= 0, col = 0
+Convert was called with n = 3, range = 6 ... returning 3
+Convert was called with n = 4, range = 5 ... returning 4
+	Getting kernel at col = 3, row = 4
+	Getting weights at row= 0, col = 1
+Convert was called with n = 3, range = 6 ... returning 3
+Convert was called with n = 5, range = 5 ... returning 0
+	Getting kernel at col = 3, row = 0
+	Getting weights at row= 0, col = 2
+
+Convert was called with n = 4, range = 6 ... returning 4
+Convert was called with n = 3, range = 5 ... returning 3
+	Getting kernel at col = 4, row = 3
+	Getting weights at row= 1, col = 0
+Convert was called with n = 4, range = 6 ... returning 4
+Convert was called with n = 4, range = 5 ... returning 4
+	Getting kernel at col = 4, row = 4
+	Getting weights at row= 1, col = 1
+Convert was called with n = 4, range = 6 ... returning 4
+Convert was called with n = 5, range = 5 ... returning 0
+	Getting kernel at col = 4, row = 0
+	Getting weights at row= 1, col = 2
+
+Convert was called with n = 5, range = 6 ... returning 5
+Convert was called with n = 3, range = 5 ... returning 3
+	Getting kernel at col = 5, row = 3
+	Getting weights at row= 2, col = 0
+Convert was called with n = 5, range = 6 ... returning 5
+Convert was called with n = 4, range = 5 ... returning 4
+	Getting kernel at col = 5, row = 4
+	Getting weights at row= 2, col = 1
+Convert was called with n = 5, range = 6 ... returning 5
+Convert was called with n = 5, range = 5 ... returning 0
+	Getting kernel at col = 5, row = 0
+	Getting weights at row= 2, col = 2
+
+Getting pixel at col = 5, row = 0
+Convert was called with n = 4, range = 6 ... returning 4
+Convert was called with n = -1, range = 5 ... returning 4
+	Getting kernel at col = 4, row = 4
+	Getting weights at row= 0, col = 0
+Convert was called with n = 4, range = 6 ... returning 4
+Convert was called with n = 0, range = 5 ... returning 0
+	Getting kernel at col = 4, row = 0
+	Getting weights at row= 0, col = 1
+Convert was called with n = 4, range = 6 ... returning 4
+Convert was called with n = 1, range = 5 ... returning 1
+	Getting kernel at col = 4, row = 1
+	Getting weights at row= 0, col = 2
+
+Convert was called with n = 5, range = 6 ... returning 5
+Convert was called with n = -1, range = 5 ... returning 4
+	Getting kernel at col = 5, row = 4
+	Getting weights at row= 1, col = 0
+Convert was called with n = 5, range = 6 ... returning 5
+Convert was called with n = 0, range = 5 ... returning 0
+	Getting kernel at col = 5, row = 0
+	Getting weights at row= 1, col = 1
+Convert was called with n = 5, range = 6 ... returning 5
+Convert was called with n = 1, range = 5 ... returning 1
+	Getting kernel at col = 5, row = 1
+	Getting weights at row= 1, col = 2
+
+Convert was called with n = 6, range = 6 ... returning 0
+Convert was called with n = -1, range = 5 ... returning 4
+	Getting kernel at col = 0, row = 4
+	Getting weights at row= 2, col = 0
+Convert was called with n = 6, range = 6 ... returning 0
+Convert was called with n = 0, range = 5 ... returning 0
+	Getting kernel at col = 0, row = 0
+	Getting weights at row= 2, col = 1
+Convert was called with n = 6, range = 6 ... returning 0
+Convert was called with n = 1, range = 5 ... returning 1
+	Getting kernel at col = 0, row = 1
+	Getting weights at row= 2, col = 2
+
+Getting pixel at col = 5, row = 1
+Convert was called with n = 4, range = 6 ... returning 4
+Convert was called with n = 0, range = 5 ... returning 0
+	Getting kernel at col = 4, row = 0
+	Getting weights at row= 0, col = 0
+Convert was called with n = 4, range = 6 ... returning 4
+Convert was called with n = 1, range = 5 ... returning 1
+	Getting kernel at col = 4, row = 1
+	Getting weights at row= 0, col = 1
+Convert was called with n = 4, range = 6 ... returning 4
+Convert was called with n = 2, range = 5 ... returning 2
+	Getting kernel at col = 4, row = 2
+	Getting weights at row= 0, col = 2
+
+Convert was called with n = 5, range = 6 ... returning 5
+Convert was called with n = 0, range = 5 ... returning 0
+	Getting kernel at col = 5, row = 0
+	Getting weights at row= 1, col = 0
+Convert was called with n = 5, range = 6 ... returning 5
+Convert was called with n = 1, range = 5 ... returning 1
+	Getting kernel at col = 5, row = 1
+	Getting weights at row= 1, col = 1
+Convert was called with n = 5, range = 6 ... returning 5
+Convert was called with n = 2, range = 5 ... returning 2
+	Getting kernel at col = 5, row = 2
+	Getting weights at row= 1, col = 2
+
+Convert was called with n = 6, range = 6 ... returning 0
+Convert was called with n = 0, range = 5 ... returning 0
+	Getting kernel at col = 0, row = 0
+	Getting weights at row= 2, col = 0
+Convert was called with n = 6, range = 6 ... returning 0
+Convert was called with n = 1, range = 5 ... returning 1
+	Getting kernel at col = 0, row = 1
+	Getting weights at row= 2, col = 1
+Convert was called with n = 6, range = 6 ... returning 0
+Convert was called with n = 2, range = 5 ... returning 2
+	Getting kernel at col = 0, row = 2
+	Getting weights at row= 2, col = 2
+
+Getting pixel at col = 5, row = 2
+Convert was called with n = 4, range = 6 ... returning 4
+Convert was called with n = 1, range = 5 ... returning 1
+	Getting kernel at col = 4, row = 1
+	Getting weights at row= 0, col = 0
+Convert was called with n = 4, range = 6 ... returning 4
+Convert was called with n = 2, range = 5 ... returning 2
+	Getting kernel at col = 4, row = 2
+	Getting weights at row= 0, col = 1
+Convert was called with n = 4, range = 6 ... returning 4
+Convert was called with n = 3, range = 5 ... returning 3
+	Getting kernel at col = 4, row = 3
+	Getting weights at row= 0, col = 2
+
+Convert was called with n = 5, range = 6 ... returning 5
+Convert was called with n = 1, range = 5 ... returning 1
+	Getting kernel at col = 5, row = 1
+	Getting weights at row= 1, col = 0
+Convert was called with n = 5, range = 6 ... returning 5
+Convert was called with n = 2, range = 5 ... returning 2
+	Getting kernel at col = 5, row = 2
+	Getting weights at row= 1, col = 1
+Convert was called with n = 5, range = 6 ... returning 5
+Convert was called with n = 3, range = 5 ... returning 3
+	Getting kernel at col = 5, row = 3
+	Getting weights at row= 1, col = 2
+
+Convert was called with n = 6, range = 6 ... returning 0
+Convert was called with n = 1, range = 5 ... returning 1
+	Getting kernel at col = 0, row = 1
+	Getting weights at row= 2, col = 0
+Convert was called with n = 6, range = 6 ... returning 0
+Convert was called with n = 2, range = 5 ... returning 2
+	Getting kernel at col = 0, row = 2
+	Getting weights at row= 2, col = 1
+Convert was called with n = 6, range = 6 ... returning 0
+Convert was called with n = 3, range = 5 ... returning 3
+	Getting kernel at col = 0, row = 3
+	Getting weights at row= 2, col = 2
+
+Getting pixel at col = 5, row = 3
+Convert was called with n = 4, range = 6 ... returning 4
+Convert was called with n = 2, range = 5 ... returning 2
+	Getting kernel at col = 4, row = 2
+	Getting weights at row= 0, col = 0
+Convert was called with n = 4, range = 6 ... returning 4
+Convert was called with n = 3, range = 5 ... returning 3
+	Getting kernel at col = 4, row = 3
+	Getting weights at row= 0, col = 1
+Convert was called with n = 4, range = 6 ... returning 4
+Convert was called with n = 4, range = 5 ... returning 4
+	Getting kernel at col = 4, row = 4
+	Getting weights at row= 0, col = 2
+
+Convert was called with n = 5, range = 6 ... returning 5
+Convert was called with n = 2, range = 5 ... returning 2
+	Getting kernel at col = 5, row = 2
+	Getting weights at row= 1, col = 0
+Convert was called with n = 5, range = 6 ... returning 5
+Convert was called with n = 3, range = 5 ... returning 3
+	Getting kernel at col = 5, row = 3
+	Getting weights at row= 1, col = 1
+Convert was called with n = 5, range = 6 ... returning 5
+Convert was called with n = 4, range = 5 ... returning 4
+	Getting kernel at col = 5, row = 4
+	Getting weights at row= 1, col = 2
+
+Convert was called with n = 6, range = 6 ... returning 0
+Convert was called with n = 2, range = 5 ... returning 2
+	Getting kernel at col = 0, row = 2
+	Getting weights at row= 2, col = 0
+Convert was called with n = 6, range = 6 ... returning 0
+Convert was called with n = 3, range = 5 ... returning 3
+	Getting kernel at col = 0, row = 3
+	Getting weights at row= 2, col = 1
+Convert was called with n = 6, range = 6 ... returning 0
+Convert was called with n = 4, range = 5 ... returning 4
+	Getting kernel at col = 0, row = 4
+	Getting weights at row= 2, col = 2
+
+Getting pixel at col = 5, row = 4
+Convert was called with n = 4, range = 6 ... returning 4
+Convert was called with n = 3, range = 5 ... returning 3
+	Getting kernel at col = 4, row = 3
+	Getting weights at row= 0, col = 0
+Convert was called with n = 4, range = 6 ... returning 4
+Convert was called with n = 4, range = 5 ... returning 4
+	Getting kernel at col = 4, row = 4
+	Getting weights at row= 0, col = 1
+Convert was called with n = 4, range = 6 ... returning 4
+Convert was called with n = 5, range = 5 ... returning 0
+	Getting kernel at col = 4, row = 0
+	Getting weights at row= 0, col = 2
+
+Convert was called with n = 5, range = 6 ... returning 5
+Convert was called with n = 3, range = 5 ... returning 3
+	Getting kernel at col = 5, row = 3
+	Getting weights at row= 1, col = 0
+Convert was called with n = 5, range = 6 ... returning 5
+Convert was called with n = 4, range = 5 ... returning 4
+	Getting kernel at col = 5, row = 4
+	Getting weights at row= 1, col = 1
+Convert was called with n = 5, range = 6 ... returning 5
+Convert was called with n = 5, range = 5 ... returning 0
+	Getting kernel at col = 5, row = 0
+	Getting weights at row= 1, col = 2
+
+Convert was called with n = 6, range = 6 ... returning 0
+Convert was called with n = 3, range = 5 ... returning 3
+	Getting kernel at col = 0, row = 3
+	Getting weights at row= 2, col = 0
+Convert was called with n = 6, range = 6 ... returning 0
+Convert was called with n = 4, range = 5 ... returning 4
+	Getting kernel at col = 0, row = 4
+	Getting weights at row= 2, col = 1
+Convert was called with n = 6, range = 6 ... returning 0
+Convert was called with n = 5, range = 5 ... returning 0
+	Getting kernel at col = 0, row = 0
+	Getting weights at row= 2, col = 2
+

@@ -1,0 +1,11 @@
+if [[ $1 ]]
+    then
+        msg=$1;
+else
+        msg="New submission";
+fi
+
+sh runtest
+rm array.zip
+sh gitp "$msg"
+zip array.zip DiscreteDistribution.java ThueMorse.java Birthday.java Minesweeper.java

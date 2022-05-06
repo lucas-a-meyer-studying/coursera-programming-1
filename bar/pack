@@ -1,0 +1,11 @@
+if [[ $1 ]]
+    then
+        msg=$1;
+else
+        msg="New submission";
+fi
+
+sh runtest
+rm bar.zip
+sh gitp "$msg"
+zip bar.zip Bar.java BarChartRacer.java

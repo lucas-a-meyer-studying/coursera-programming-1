@@ -1,0 +1,11 @@
+if [[ $1 ]]
+    then
+        msg=$1;
+else
+        msg="New submission";
+fi
+
+sh runtest
+rm loop.zip
+sh gitp "$msg"
+zip loop.zip GeneralizedHarmonic.java BandMatrix.java RandomWalker.java RandomWalkers.java

@@ -1,0 +1,11 @@
+if [[ $1 ]]
+    then
+        msg=$1;
+else
+        msg="New submission";
+fi
+
+sh runtest
+rm fun.zip
+sh gitp "$msg"
+zip fun.zip ActivationFunction.java Divisors.java AudioCollage.java

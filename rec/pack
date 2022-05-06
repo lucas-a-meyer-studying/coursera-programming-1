@@ -1,0 +1,11 @@
+if [[ $1 ]]
+    then
+        msg=$1;
+else
+        msg="New submission";
+fi
+
+sh runtest
+rm io.zip
+sh gitp "$msg"
+zip rec.zip TrinomialBrute.java TrinomialDP.java RevesPuzzle.java RecursiveSquares.java

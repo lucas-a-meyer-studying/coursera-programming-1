@@ -1,0 +1,11 @@
+if [[ $1 ]]
+    then
+        msg=$1;
+else
+        msg="New submission";
+fi
+
+sh runtest
+rm oop2.zip
+sh gitp "$msg"
+zip oop2.zip ColorHSB.java Clock.java

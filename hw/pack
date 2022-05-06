@@ -1,0 +1,11 @@
+if [[ $1 ]]
+    then
+        msg=$1;
+else
+        msg="New submission";
+fi
+
+sh runtest
+rm hw.zip
+sh gitp "$msg"
+zip hw.zip HelloWorld.java HelloGoodbye.java RightTriangle.java GreatCircle.java CMYKtoRGB.java
